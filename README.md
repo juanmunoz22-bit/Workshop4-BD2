@@ -1,12 +1,14 @@
 # Workshop4-BD2
 
-# Integrantes
+# Integrantes:
+
 Juan Pablo Muñoz
 Raúl Gonzalez
 Jeisson Jossa
 Moisés Salcedo
 
 # Desarrollo y solución
+------------------------------
 
 INTRODUCCIÓN
 Para el desarrollo del taller número 4 optamos por hacer uso de Big table desde Python. Una de las razones de usar python es para poder utilizar la libreria de pandas, la cual permite trabajar fácilmente los datasets. 
@@ -40,7 +42,8 @@ Para resolver el punto 1 procedemos a hacer la búsqueda en Big Table por medio 
 Para resolver el punto 2, hacemos una búsqueda por key y hora, y tomamos el daily yield haciendo uso de filtros para mostrar la respuesta
 ![image](https://user-images.githubusercontent.com/53981601/138383533-25f889f3-170a-4e4a-9394-2e36c94ee195.png)
 
-CONCLUSIÓN 
+CONCLUSIÓN:
+
 Hacer uso de una base de datos diferente, y de librerias en python a la que no estamos acostumbrados nos permite agregar nuevas herramienta de trabajo a las que tenemos, de esta forma se pueden construir apliacciones con más recursos y dependiendo de las necesidades podemos usar diferentes tipos de bases de datos. El hacer uso de python y de pandas nos ha facilitado trabajar con data frames con una cantidad considerable de registros, y esto también puede ayudarnos en la línea de Big Data en el futuro.
 
 
